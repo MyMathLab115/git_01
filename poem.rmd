@@ -1,7 +1,7 @@
 ---
 title: "git_01"
-author: "Math_116"
-date: "Fall semester"
+author: "Lisa Davis"
+date: "Summer 2023"
 output: html_document
 ---
 
@@ -15,6 +15,13 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+
+"The sun was shining on the sea,  
+Shining with all his might:  
+He did his very best to make  
+The billows smooth and bright —  
+And this was odd, because it was  
+
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
@@ -44,3 +51,54 @@ After the day was done —
 
 ## Last Verse
 <!--Put a short poem you created using chatGPT of 20 to 30 lines,here!-->
+
+In a world adorned with stars so bright,  
+Where dreams dance freely through the night,  
+I wander through the forest green,  
+Where secrets whisper and remain unseen.  
+
+Oh, the ocean waves, they crash and roar,  
+As they chase the moon along the shore.  
+A symphony of nature's grace,  
+Painting colors on a canvas of space.  
+
+Through fields of gold, the wild winds blow,  
+Guiding me where the wildflowers grow.  
+I seek solace in the mountain's embrace,  
+Seeking answers in its ancient face.  
+
+The city streets, alive and loud,  
+Where dreams are born and hopes are vowed.  
+A tapestry of diverse souls,  
+Each one playing their unique roles.  
+
+Beneath a canopy of silver trees,  
+I find a haven, a gentle breeze.  
+Where time stands still, my heart takes flight,  
+In a realm of magic, pure and bright.  
+
+Whispers of love float on the breeze,  
+As hearts entwine with effortless ease.  
+For love knows no bounds or worldly chains,  
+It dances freely through life's refrains.  
+
+The sun sets low, casting golden hues,  
+As evening paints the sky with vibrant blues.  
+And in this moment, I find my peace,  
+As nature's wonders never cease.  
+
+From dawn to dusk, a tale unfolds,  
+Of life's mysteries and stories untold.  
+In every line and verse, a fragment true,  
+Of dreams, love, and the world we view.  
+
+So let us wander, hand in hand,  
+Through this vast world, both grand and grand.  
+With open hearts and eyes that see,  
+The beauty of life's tapestry.  
+
+
+
+
+
+
